@@ -6,7 +6,7 @@ Projeto realizado durante módulo de Front-end do curso de desenvolvimento web d
 <details>
   <summary><strong>O que foi feito</strong></summary></br>
 
-  Neste projeto desenvolvemos um jogo de perguntas e respostas baseado no jogo Trivia (tipo um show do milhão americano rs) utilizando `React` e `Redux`, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro `Kanban`.
+  Neste projeto desenvolvemos um jogo de perguntas e respostas baseado no jogo Trivia (jogo de perguntas e respostas) utilizando `React` e `Redux`, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro `Kanban`.
   
 Nesta aplicação, é possível:
 
