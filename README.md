@@ -1,5 +1,5 @@
 
-# Projeto Trivia API
+# Projeto Trivia
 
 Projeto realizado durante módulo de Front-end do curso de desenvolvimento web da Trybe.
 
