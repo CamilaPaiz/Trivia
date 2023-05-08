@@ -1,10 +1,3 @@
-<h4 align="center">
-  <img width="180px" alt="trybe wallet logo" src="https://user-images.githubusercontent.com/100851855/229930546-cc57608b-38b5-4e00-92f1-15f5bcd1934a.png" />
-  <br /><br />
-</h4>
-
-<hr />
-
 
 # Projeto Trivia API
 
